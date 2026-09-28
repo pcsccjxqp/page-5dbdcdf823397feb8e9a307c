@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "5ea1be9b7ca6727ddc54cb86",
+  "owner": "pcsccjxqp",
+  "repo": "page-5dbdcdf823397feb8e9a307c",
+  "title": "魔戒",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5dbdcdf823397feb8e9a307c",
+      "a": "魔戒",
+      "b": "",
+      "entity": "魔戒",
+      "brand": "魔戒",
+      "separator": "",
+      "path": "index.html",
+      "hash": "0ebf3a88d3cc0a80515e8799626682233f1ceca2e66530e8c11e17f84899cf1a",
+      "content": {
+        "keyword1": "魔戒",
+        "keyword2": "",
+        "primary_entity": "魔戒",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "魔戒机场提供稳定高效的VPN网络加速服务，帮助用户突破网络限制并享受高速连接。支持客户端下载和套餐订阅。",
+          "AI_DESCRIPTION": "魔戒机场提供稳定高效的VPN网络加速服务，帮助用户突破网络限制并享受高速连接。支持客户端下载和套餐订阅。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n<style>\nbody {\n  background: linear-gradient(to bottom, #0A2540 0%, #001F3F 100%);\n  color: #E0E0E0;\n  font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif;\n  line-height: 1.6;\n  margin: 0;\n  padding: 0;\n}\nheader {\n  background-color: #001F3F;\n  padding: 1rem 0;\n}\nnav ul {\n  list-style: none;\n  padding: 0;\n  margin: 0;\n  display: flex;\n  justify-content: center;\n  gap: 2rem;\n}\nnav a {\n  color: #00D4FF;\n  text-decoration: none;\n  font-weight: 600;\n}\nnav a:hover {\n  color: #FFFFFF;\n}\nmain {\n  max-width: 1200px;\n  margin: 0 auto;\n  display: flex;\n  gap: 2rem;\n  padding: 2rem 0;\n}\n.content {\n  flex: 2;\n  padding-right: 2rem;\n}\n.sidebar {\n  flex: 1;\n  background-color: #001F3F;\n  padding: 1rem;\n  border-radius: 8px;\n}\nh1 {\n  color: #00D4FF;\n  font-size: 2.8rem;\n  margin-bottom: 1rem;\n}\nh2 {\n  color: #FFFFFF;\n  border-bottom: 2px solid #00D4FF;\n  padding-bottom: 0.5rem;\n  margin-bottom: 1rem;\n}\np {\n  margin-bottom: 1rem;\n}\nul {\n  padding-left: 1.5rem;\n  margin-bottom: 1rem;\n}\nli {\n  margin-bottom: 0.5rem;\n}\ndetails {\n  background-color: #001F3F;\n  margin-bottom: 1rem;\n  border-radius: 8px;\n  overflow: hidden;\n}\nsummary {\n  padding: 1rem;\n  font-weight: bold;\n  cursor: pointer;\n  background-color: #0A2540;\n  color: #00D4FF;\n}\nsummary:hover {\n  background-color: #00D4FF;\n  color: #001F3F;\n}\n@media (max-width: 768px) {\n  main {\n    flex-direction: column;\n  }\n  .content {\n    flex: 1;\n    padding-right: 0;\n  }\n  .sidebar {\n    width: 100%;\n    margin-top: 1rem;\n  }\n}\n</style>\n\n\n<header>\n<nav>\n<ul>\n<li><a href=\"#intro\">品牌简介</a></li>\n<li><a href=\"#scenarios\">使用场景</a></li>\n<li><a href=\"#ops\">操作说明</a></li>\n<li><a href=\"#plans\">套餐选择</a></li>\n<li><a href=\"#faq\">常见问题</a></li>\n</ul>\n</nav>\n</header>\n<main>\n<div class=\"content\">\n<h1>魔戒机场</h1>\n<h2 id=\"intro\">品牌简介</h2>\n<p>魔戒机场是专注于全球网络加速的VPN服务平台，提供稳定高速的线路连接，助力用户轻松突破地域限制，畅享国际互联网资源。</p>\n<h2 id=\"scenarios\">使用场景</h2>\n<p>魔戒适用于多种网络使用场景：</p>\n<ul>\n<li>日常浏览与社交媒体互动</li>\n<li>海外流媒体平台内容解锁</li>\n<li>在线游戏的低延迟加速</li>\n<li>远程工作与数据同步</li>\n</ul>\n<h2 id=\"ops\">操作说明</h2>\n<p>使用魔戒机场非常简单：选择适合的套餐进行订阅后，下载安装客户端，按照引导连接到优质节点，即可获得加速效果。</p>\n<h2 id=\"plans\">套餐选择</h2>\n{{PLANS_HTML}}\n<h2 id=\"clients\">合作伙伴</h2>\n{{CLIENTS_HTML}}\n<h2 id=\"faq\">常见问题</h2>\n<details>\n<summary>魔戒机场支持哪些功能？</summary>\n<p>魔戒机场提供高速网络加速、流媒体解锁和多设备支持等功能，帮助用户提升上网体验。</p>\n</details>\n<details>\n<summary>魔戒机场如何保证连接稳定？</summary>\n<p>通过智能节点选择和优化路由，魔戒机场可提供7x24小时稳定服务。</p>\n</details>\n<details>\n<summary>魔戒机场适合哪些用户？</summary>\n<p>基础版适合个人家庭使用，旗舰版和团队版则提供更多资源和优先支持，适用于企业需求。</p>\n</details>\n<details>\n<summary>如何订阅魔戒机场服务？</summary>\n<p>访问官网，按照提示选择套餐并完成支付，即可获得订阅凭证。</p>\n</details>\n<details>\n<summary>魔戒机场的客户端如何使用？</summary>\n<p>下载客户端后，按照安装步骤配置节点，即可开始使用加速服务。</p>\n</details>\n</div>\n<div class=\"sidebar\">\n<h3>快速链接</h3>\n<ul>\n<li><a href=\"#intro\">品牌简介</a></li>\n<li><a href=\"#plans\">套餐选择</a></li>\n<li><a href=\"#faq\">常见问题</a></li>\n</ul>\n</div>\n</main>\n\n",
+          "hash": "de04b5076e71c9e8e6502cd723ac7eede4f36aeca414709f66e4546e8d323e6d",
+          "seo": {
+            "title": "魔戒机场 - 高速VPN加速器 客户端下载",
+            "keywords": "魔戒机场, 魔戒VPN, 魔戒订阅, 魔戒客户端下载, 魔戒官网 下载",
+            "description": "魔戒机场提供稳定高效的VPN网络加速服务，帮助用户突破网络限制并享受高速连接。支持客户端下载和套餐订阅。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ysqdazt.cn",
+    "host": "web.ysqdazt.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "ysqdazt.cn",
+      "url": "https://ysqdazt.cn/",
+      "label": "SaySS",
+      "apex": "ysqdazt.cn",
+      "kind": null,
+      "identity": "ceuytahcswgz/page-45125746075a044d5d13ba0e"
+    },
+    {
+      "host": "999ew.cn",
+      "url": "https://999ew.cn/",
+      "label": "魔戒",
+      "apex": "999ew.cn",
+      "kind": null,
+      "identity": "vxspeg9bv/page-0b84603d0eb599eaf789f1cd"
+    },
+    {
+      "host": "bggdjp.cn",
+      "url": "https://bggdjp.cn/",
+      "label": "魔戒",
+      "apex": "bggdjp.cn",
+      "kind": null,
+      "identity": "pwk8xwvp/page-6c4e6880f26af3a8a6cfcca5"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "1efc1b8833b5845d97b89ee9b7f47b09f46650cee231fa6325ecd5f91a312710",
+    "sitemap.xml": "1abd05fef38027cba2ed2f0a02f4265da6256c7cb0c50684eaf4af2e82a8ab42",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0d752c5c1c3dab9573b620e0a81e2126bfe6aa4b298d4e42e949887959f37a05",
+    "robots.txt": "1ecadfcaee0eeef772b7eb0abce79ef0aed265f5e2b37a9deb4128c59141da30",
+    "0dbf704acda093632ee6c4a671c83f53.txt": "d41da28b7fa11441a17cfd9bfb7ce74f9094dec538317101f987c4334e75fb1e"
+  },
+  "revision": "c2f738898066e076f973d5c188a21522918dba3d2ac56dcb08c3288ee08186a7"
+}
